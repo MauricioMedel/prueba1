@@ -13,3 +13,5 @@ app.listen(PORT, () => {
     console.log('SERVE IS RUNNING ON PORT : '+ PORT);
 
 });
+
+//running api
